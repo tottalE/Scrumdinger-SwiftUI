@@ -63,6 +63,7 @@
 				3C2873EE2825FACC0081E25B /* ScrumdingerApp.swift */,
 				3CC8E5E628262A76005816DF /* CardView.swift */,
 				3C2873F02825FACC0081E25B /* MeetingView.swift */,
+				3C3D11C5282632520084273B /* TrailingIconLabelStyle.swift */,
 				3C2873F22825FACF0081E25B /* Assets.xcassets */,
 				3C2873F42825FACF0081E25B /* Preview Content */,
 			);
@@ -82,7 +83,6 @@
 			children = (
 				3C2873FD2826170C0081E25B /* Theme.swift */,
 				3C2873FF2826198E0081E25B /* DailyScrum.swift */,
-				3C3D11C5282632520084273B /* TrailingIconLabelStyle.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
